@@ -1,1 +1,1 @@
-# MoTVLA: Eliciting Spatial Reasoning in Vision-Language-Action Models via Multimodal Token Embeddings and Implicit Gaussian Representations.
+# MoTVLA: Eliciting Spatial Reasoning in Vision-Language-Action Models via Multimodal Token Embeddings
